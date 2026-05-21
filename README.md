@@ -86,7 +86,9 @@ Oracle AI Vector Search in Oracle Database 26ai is Oracle's built-in vector data
 			*	[-9.08539966E-002,1.87588222E-002,-2.66703293E-002,4.16907854E-002,
 
 6) - Test Search result
+     
       -- search the word : "programer"
+     
        $ python3.9 search_result.py
   			Search Employees :  programer   >>>>>>>>>>>>>>>>>>>>>>>>>> input value
   			(103, 'Alexander', 'James')
